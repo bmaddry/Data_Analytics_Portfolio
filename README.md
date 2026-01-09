@@ -94,4 +94,4 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Cost Optimization, Machine Learning
 
-**Technology** Amazon S3, AWS Glue, Amazon Redshift, AWS SageMaker, SQL
+**Technology:** Amazon S3, AWS Glue, Amazon Redshift, AWS SageMaker, SQL
