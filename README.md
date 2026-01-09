@@ -25,7 +25,7 @@ This portfolio was built to highlight my technical skills and includes projects 
 * Contact
 
 ## Portfolio Projects
-In this section the projects will be briefly described, and the technology used to complete each task will be noted.
+In this section the portfolio projects will be briefly described, and the technology used to complete the project will be noted.
 
 ### Credit Card Fraud Classification
 **Code:**
@@ -36,6 +36,7 @@ In this section the projects will be briefly described, and the technology used 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Scikit-Learn
 
+
 ### Housing Prices Prediction
 **Code:**
 
@@ -44,6 +45,7 @@ In this section the projects will be briefly described, and the technology used 
 **Skills:** GLM Modeling, Data Cleaning, Feature Engeineering, Scaling, Cross Validation, Model Comparison
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Scikit-Learn
+
 
 ### Scheduling Optimization
 **Code:**
