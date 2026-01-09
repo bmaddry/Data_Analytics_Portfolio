@@ -55,3 +55,43 @@ In this section the portfolio projects will be briefly described, and the techno
 **Skills:** MILP, Constraint Programmming, Optimization
 
 **Technology:** Python, Pyomo, Pandas, CBC Solver
+
+
+### EV Charging Analytics
+**Code:**
+
+**Description:**
+
+**Skills:** Data Cleaning, ETL, Data Governance, Snowflake AI, Text Analytics, Window Functions, CTEs
+
+**Technology:** SQL, Snowflake, Amazon S3
+
+
+### Rideshare Data Modeling
+**Code:**
+
+**Description:**
+
+**Skills:** Data Cleaning, ETL, Semi-Structured Data Handling, Window Functions, CTEs, Joins, Views
+
+**Technology:** SQL, Snowflake, Amazon S3
+
+
+### Tableau
+**Link:**
+
+**Description:**
+
+**Skills:** Data Visualization, Interactive Dashboard Design, Exploratory Data Analysis, Calculated Fields, Data Cleaning
+
+**Technology:** Tableau, SQL, Excel, CSV
+
+
+### AWS
+**Link:**
+
+**Description:**
+
+**Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Cost Optimization, Machine Learning
+
+**Technology** Amazon S3, AWS Glue, Amazon Redshift, AWS SageMaker, SQL
