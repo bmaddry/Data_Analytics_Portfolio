@@ -28,7 +28,7 @@ This portfolio was built to highlight my technical skills and includes projects 
 In this section the portfolio projects will be briefly described, and the technology used to complete the project will be noted.
 
 ### Credit Card Fraud Classification
-**Code:**
+**Code:** [`ML Credit Card Fraud Classification.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/ML_Credit_Fraud_Prediction.ipynb)
 
 **Description:** Machine Learning models are used in this project to accurately predict cases of credit card fraud. The training dataset has roughly 285,000 transactions, and just 0.17% of these transactions are fraudulent. When building the models, a logistic regression GLM is first used to provide a baseline, before switching to Random Forests and XGBoost. F1, Precision and Recall are both used as evaluation criteria, as the True Positive Rate and False Positive Rate are both important in this dataset.
 
@@ -38,7 +38,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 
 ### Housing Prices Prediction
-**Code:**
+**Code:** [`GLM Housing Prices Prediction.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/GLM_Housing_Prices_Prediction.ipynb)
 
 **Description:** This project uses Generalized Linear Models (GLMs) to predict the selling price for homes listed for sale in Ames, Iowa. There are 80 initial features, so this dataset requires extensive data cleaning and strong feature engineering. To generate predictions, OLS with cross validation is used as the baseline model before proceeding to Lasso with cross validation, with RMSE as the evaluation criteria.
 
@@ -48,7 +48,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 
 ### Scheduling Optimization
-**Code:**
+**Code:** [`Pyomo Scheduling Optimization.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/Pyomo_Scheduling_Optimzer.ipynb)
 
 **Description:** This project focuses on finding the solution for a Mixed Integer Linear Programming (MILP) problem using Pyomo and CBC solver, to optimize scheduling for athletic events. This was inspired by the challenge of high school teams in Northern Wisconsin, having to travel over 100 miles for interconference play. This approach is also highly transferable for logistics and supply chain fleet optimization problems.
 
@@ -58,27 +58,27 @@ In this section the portfolio projects will be briefly described, and the techno
 
 
 ### EV Charging Analytics
-**Code:**
+**Code:** [`EV Charging Analytics.sql`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/Pyomo_Scheduling_Optimzer.ipynb)
 
 **Description:** This SQL script involves loading and cleaning data from AWS S3, while performing role based access control and resource monitoring. Queries explore the problem of cars idling at EV charging stations, and use Snowflake AI to explore customer sentiment regarding the issue.
 
 **Skills:** Data Cleaning, ETL, Data Governance, Snowflake AI, Text Analytics, Window Functions, CTEs
 
-**Technology:** SQL, Snowflake, Amazon S3
+**Technology:** SQL, Snowflake, AWS S3
 
 
 ### Rideshare Data Modeling
-**Code:**
+**Code:** [`Rideshare Data Modeling.sql`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/SQL/Rideshare_Data_Modeling.sql)
 
 **Description:** The goal of this project is to build a consolidated view of KPIs for a rideshare service. In addition to loading and cleaning data from AWS S3, semi-structured JSON data is also handled. Functions used to explore the data and create the view include CTEs, window functions, joins, CASE logic and date/time functions.
 
 **Skills:** Data Cleaning, ETL, Semi-Structured Data Handling, CTEs, Window Functions, Joins, Views
 
-**Technology:** SQL, Snowflake, Amazon S3
+**Technology:** SQL, Snowflake, AWS S3
 
 
 ### Tableau
-**Link:**
+**Link:** [`Tableau Public Dashboards`](https://public.tableau.com/app/profile/brett.maddry/vizzes)
 
 **Description:** Two two dashboards in the above link were created using Tableau Public -- one analyzes the global health trends following the COVID outbreak in 2020, and another explores statistics regarding College Football fight songs. Both are created to give the user an interactive experience, and contain calculated fields.
 
@@ -88,7 +88,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 
 ### AWS
-**Link:**
+**Link:** [`AWS Cloud Data Architecture Presentation`](https://go.screenpal.com/watch/cT6e0VnDKVR)
 
 **Description:** This project contains a video presentation of an end-to-end AWS cloud architecture for financial analytics, automated for future use. Includes steps such as loading the data with S3, using Glue to perform ETL, creating a data warehouse with Redshift for scalability, and performing machine learning with SageMaker.
 
