@@ -60,7 +60,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### EV Charging Analytics
 **Code:**
 
-**Description:** 
+**Description:** This SQL script involves loading and cleaning data from AWS S3, while performing role based access control and resource monitoring. Queries explore the problem of cars idling at EV charging stations, and use Snowflake AI to explore customer sentiment regarding the issue.
 
 **Skills:** Data Cleaning, ETL, Data Governance, Snowflake AI, Text Analytics, Window Functions, CTEs
 
@@ -70,9 +70,9 @@ In this section the portfolio projects will be briefly described, and the techno
 ### Rideshare Data Modeling
 **Code:**
 
-**Description:**
+**Description:** The goal of this project is to build a consolidated view of KPIs for a rideshare service. In addition to loading and cleaning data from AWS S3, semi-structured JSON data is also handled. Functions used to explore the data and create the view include CTEs, window functions, joins, CASE logic and date/time functions.
 
-**Skills:** Data Cleaning, ETL, Semi-Structured Data Handling, Window Functions, CTEs, Joins, Views
+**Skills:** Data Cleaning, ETL, Semi-Structured Data Handling, CTEs, Window Functions, Joins, Views
 
 **Technology:** SQL, Snowflake, Amazon S3
 
@@ -80,7 +80,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### Tableau
 **Link:**
 
-**Description:** Two dashboards were created using Tableau Public -- one analyzes the global health trends following the COVID outbreak in 2020, and another explores statistics regarding College Football fight songs. Both are created to give the user an interactive experience, and contain calculated fields.
+**Description:** Two two dashboards in the above link were created using Tableau Public -- one analyzes the global health trends following the COVID outbreak in 2020, and another explores statistics regarding College Football fight songs. Both are created to give the user an interactive experience, and contain calculated fields.
 
 **Skills:** Data Visualization, Interactive Dashboard Design, Exploratory Data Analysis, Calculated Fields, Data Cleaning
 
