@@ -97,11 +97,9 @@ In this section the portfolio projects will be briefly described, and the techno
 **Technology:** AWS S3, AWS Glue, AWS Redshift, AWS SageMaker, SQL
 
 ## Education
-Univeristy of Wisconsin-Madison: Master of Science in Business Analytics
-2025-2026, GPA: 4.00
+**University of Wisconsin-Madison:** Master of Science - MS, Business Analytics, Expected May 2026
 
-Univeristy of Wisconsin-Madison: Bachelor of Arts in Economics and International Studies
-2015-2019, GPA: 3.63
+**University of Wisconsin-Madison:** Bachelor of Arts - BA, Economics and International Studies, 2015-2019
 
 ## Contact
 * LinkedIn: [@brettmaddry](https://www.linkedin.com/in/brett-maddry/)
