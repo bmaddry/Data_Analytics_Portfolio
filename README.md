@@ -30,7 +30,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### Credit Card Fraud Classification
 **Code:**
 
-**Description:** Machine Learning models is used in this project to accurately predict cases of credit card fraud. The training dataset has roughly 285,000 transactions, and just 0.17% of these transactions are fraudulent. When building the models, a logistic regression GLM is first used to provide a baseline, before switching to Random Forests and XGBoost. F1, Precision and Recall are both used as evaluation criteria, as the True Positive Rate and False Positive Rate are both important in this dataset.
+**Description:** Machine Learning models are used in this project to accurately predict cases of credit card fraud. The training dataset has roughly 285,000 transactions, and just 0.17% of these transactions are fraudulent. When building the models, a logistic regression GLM is first used to provide a baseline, before switching to Random Forests and XGBoost. F1, Precision and Recall are both used as evaluation criteria, as the True Positive Rate and False Positive Rate are both important in this dataset.
 
 **Skills:** Random Forests, XGBoost, Data Cleaning, Feature Engineering, Class Imbalance Handling, Grid Search
 
@@ -60,7 +60,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### EV Charging Analytics
 **Code:**
 
-**Description:**
+**Description:** 
 
 **Skills:** Data Cleaning, ETL, Data Governance, Snowflake AI, Text Analytics, Window Functions, CTEs
 
@@ -80,7 +80,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### Tableau
 **Link:**
 
-**Description:**
+**Description:** Two dashboards were created using Tableau Public -- one analyzes the global health trends following the COVID outbreak in 2020, and another explores statistics regarding College Football fight songs. Both are created to give the user an interactive experience, and contain calculated fields.
 
 **Skills:** Data Visualization, Interactive Dashboard Design, Exploratory Data Analysis, Calculated Fields, Data Cleaning
 
@@ -90,8 +90,8 @@ In this section the portfolio projects will be briefly described, and the techno
 ### AWS
 **Link:**
 
-**Description:**
+**Description:** This project contains a video presentation of an end-to-end AWS cloud architecture for financial analytics, automated for future use. Includes steps such as loading the data with S3, using Glue to perform ETL, creating a data warehouse with Redshift that includes scalability options, and performing machine learning with SageMaker.
 
 **Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Cost Optimization, Machine Learning
 
-**Technology:** Amazon S3, AWS Glue, Amazon Redshift, AWS SageMaker, SQL
+**Technology:** AWS S3, AWS Glue, AWS Redshift, AWS SageMaker, SQL
