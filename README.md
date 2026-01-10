@@ -9,20 +9,20 @@ This portfolio was built to highlight my technical skills and includes projects 
 
 ## Table of Contents
 
-* About
+* [About](#about)
 
-* Portfolio Projects
+* [Portfolio Projects](#portfolio-projects)
   * Python
-      * Credit Card Fraud Classification
-      * Housing Prices Prediction
-      * Scheduling Optimization
+      * [Credit Card Fraud Classification](#credit-card-fraud-classification)
+      * [Housing Prices Prediction](#housing-prices-prediction)
+      * [Scheduling Optimization](#scheduling-optimization)
   * SQL
-      * EV Charging Analytics
-      * Rideshare Data Modeling
-  * Tableau
-  * AWS
-* Education
-* Contact
+      * [EV Charging Analytics](#ev-charging-analytics)
+      * [Rideshare Data Modeling](#rideshare-data-modeling)
+  * [Tableau](#tableau)
+  * [AWS](#aws)
+* [Education](#education)
+* [Contact](#contact)
 
 ## Portfolio Projects
 In this section the portfolio projects will be briefly described, and the technology used to complete the project will be noted.
@@ -95,3 +95,14 @@ In this section the portfolio projects will be briefly described, and the techno
 **Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Cost Optimization, Machine Learning
 
 **Technology:** AWS S3, AWS Glue, AWS Redshift, AWS SageMaker, SQL
+
+## Education
+Univeristy of Wisconsin-Madison: Master of Science in Business Analytics
+2025-2026, GPA: 4.00
+
+Univeristy of Wisconsin-Madison: Bachelor of Arts in Economics and International Studies
+2015-2019, GPA: 3.63
+
+## Contact
+* LinkedIn: [@brettmaddry](https://www.linkedin.com/in/brett-maddry/)
+* Email: [bamaddry@gmail.com](mailto:bamaddry@gmail.com)
