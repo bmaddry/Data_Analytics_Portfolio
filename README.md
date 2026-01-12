@@ -42,7 +42,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Description:** This project uses Generalized Linear Models (GLMs) to predict the selling price for homes listed for sale in Ames, Iowa. There are 80 initial features, so this dataset requires extensive data cleaning and strong feature engineering. To generate predictions, OLS with cross validation is used as the baseline model before proceeding to Lasso with cross validation, with RMSE as the evaluation criteria.
 
-**Skills:** GLM Modeling, Data Cleaning, Feature Engeineering, Scaling, Cross Validation, Model Comparison
+**Skills:** GLM Regression, Data Cleaning, Feature Engeineering, Data Scaling, Cross Validation
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Scikit-Learn
 
