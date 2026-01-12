@@ -48,7 +48,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 
 ### Scheduling Optimization
-**Code:** [`Pyomo Scheduling Optimization.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/Pyomo_Scheduling_Optimzer.ipynb)
+**Code:** [`Pyomo Scheduling Optimization.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/Pyomo_Scheduling_Optimzation.ipynb)
 
 **Description:** This project focuses on finding the solution for a Mixed Integer Linear Programming (MILP) problem using Pyomo and CBC solver, to optimize scheduling for athletic events. This was inspired by the challenge of high school teams in Northern Wisconsin, having to travel over 100 miles for interconference play. This approach is also highly transferable for logistics and supply chain fleet optimization problems.
 
