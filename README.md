@@ -82,7 +82,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Description:** Two dashboards in the above link were created using Tableau Public -- one analyzes the global health trends following the COVID outbreak in 2020, and another explores statistics regarding College Football fight songs. Both are created to give the user an interactive experience, and contain calculated fields.
 
-**Skills:** Data Visualization, Interactive Dashboard Design, Exploratory Data Analysis, Calculated Fields, Data Cleaning
+**Skills:** Data Visualization, Data Cleaning, Exploratory Data Analysis, Calcultated Fields
 
 **Technology:** Tableau, SQL, Excel, CSV
 
@@ -92,7 +92,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Description:** This project contains a video presentation of an end-to-end AWS cloud architecture for financial analytics, automated for future use. Includes steps such as loading the data with S3, using Glue to perform ETL, creating a data warehouse with Redshift for scalability, and performing machine learning with SageMaker.
 
-**Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Cost Optimization, Machine Learning
+**Skills:** Cloud Data Architecture, ETL, Data Warehousing, Data Lake Management, Automation, Machine Learning
 
 **Technology:** AWS S3, AWS Glue, AWS Redshift, AWS SageMaker, SQL
 
