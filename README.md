@@ -5,7 +5,7 @@ I’m a data-driven professional with experiences spanning demand forecasting an
 
 Currently, I'm pursuing my Masters of Business Analytics at UW-Madison to further expand and grow my technical skills inside SQL, data visualization and machine learning. In my career outside of data, I'm passionate about leading and mentoring others, along with building collaborative cross-functional relationships.
 
-This portfolio was built to highlight my technical skills and includes projects inside of Machine Learning, Generalized Linear Models, Pyomo Optimization, SQL, Tableau and AWS. My personal interest in sports analytics is reflected in a handful of projects, and I'm currently designing a model to generate odds for NHL regaular season games. Feel free to come back soon if you're interested!
+This portfolio was built to highlight my technical skills and includes projects inside of Machine Learning, Generalized Linear Models, SQL, Tableau and AWS. My personal interest in sports analytics is reflected in a handful of projects, and I'm currently designing a model that generate odds for NHL regaular season games. Feel free to come back soon if you're interested!
 
 ## Table of Contents
 
