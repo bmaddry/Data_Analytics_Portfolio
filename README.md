@@ -60,7 +60,7 @@ In this section the portfolio projects will be briefly described, and the techno
 ### EV Charging Analytics
 **Code:** [`EV Charging Analytics.sql`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/SQL/EV_Charging_Analytics.sql)
 
-**Description:** This SQL script involves loading and cleaning data from AWS S3, while performing role based access control and resource monitoring. Queries explore the problem of cars idling at EV charging stations, and use Snowflake AI to explore customer sentiment regarding the issue.
+**Description:** This SQL script involves loading and cleaning data from AWS S3, while performing role based access control and resource monitoring. Queries explore the problem of cars idling at electric vehicle (EV) charging stations, and use Snowflake AI to explore customer sentiment analysis regarding the issue.
 
 **Skills:** Data Cleaning, ETL, Data Governance, Snowflake AI, Text Analytics, Window Functions, CTEs
 
