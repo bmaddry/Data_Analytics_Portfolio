@@ -54,7 +54,7 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Skills:** MILP, Constraint Programmming, Data Modeling, Scenario Analysis, Optimization
 
-**Technology:** Python, Pyomo, CBC Solver, Google Colab
+**Technology:** Python, Pyomo, CBC Solver
 
 
 ### EV Charging Analytics
