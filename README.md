@@ -52,9 +52,9 @@ In this section the portfolio projects will be briefly described, and the techno
 
 **Description:** This project focuses on finding the solution for a Mixed Integer Linear Programming (MILP) problem using Pyomo and CBC solver, to optimize scheduling for athletic events. This was inspired by the challenge of high school teams in Northern Wisconsin, having to travel over 100 miles for interconference play. This approach is also highly transferable for logistics and supply chain fleet optimization problems.
 
-**Skills:** MILP, Constraint Programmming, Optimization
+**Skills:** MILP, Constraint Programmming, Data Modeling, Scenario Analysis, Optimization
 
-**Technology:** Python, Pyomo, Pandas, CBC Solver
+**Technology:** Python, Pyomo, CBC Solver, Google Colab
 
 
 ### EV Charging Analytics
