@@ -1,4 +1,4 @@
-##Python Projects
+## Python Projects
 
 ### Credit Card Fraud Classification
 **Code:** [`ML Credit Card Fraud Classification.ipynb`](https://github.com/bmaddry/Data_Analytics_Portfolio/blob/main/Python/ML_Credit_Fraud_Prediction.ipynb)
