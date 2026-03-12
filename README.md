@@ -15,7 +15,7 @@ This portfolio was built to highlight my technical skills and includes projects 
   * Python
       * [Credit Card Fraud Classification](#credit-card-fraud-classification)
       * [Housing Prices Prediction](#housing-prices-prediction)
-      * [Athletics_Scheduling Optimization](#athletics-scheduling-optimization)
+      * [Athletics Scheduling Optimization](#athletics-scheduling-optimization)
   * SQL
       * [EV Charging Analytics](#ev-charging-analytics)
       * [Rideshare Data Modeling](#rideshare-data-modeling)
